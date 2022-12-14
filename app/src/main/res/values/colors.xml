@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_color">#FF000000</color>
+    <color name="layout_border_color">#FF111111</color>
+    <color name="purple_200">#fefefe</color>
+    <color name="purple_700">#dedede</color>
+    <color name="purple_500">#cecece</color>
+    <color name="teal_200">#dedede</color>
+</resources>
